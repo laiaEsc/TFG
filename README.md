@@ -1,8 +1,8 @@
 # Anàlisi de la probabilitat d’incendi en habitatges
-L'objectiu d'aquest projecte és fer una predicció del grau d'expansió d'un incendi en habitatges. La base de dades amb la que treballem han estat guardades per la _NFIRS_ i conté tots els incidents del 2023 gestionats pels Bombers, la EMS i l'Arson. Tot i que aquesta base de dades és molt gran, aqui només hem adjuntat els fitxers necessaris per poder dur a terme la nostra predicció.
+L'objectiu d'aquest projecte és fer una predicció del grau d'expansió d'un incendi en habitatges. La base de dades amb la que treballem han estat guardades per la _NFIRS_ i conté tots els incidents del 2023 gestionats pels Bombers, la EMS i l'Arson.
 
 ## Estructura del repositori
-El repositori en el que ens trobem conté totes les eines necessàries per fer l'execució completa del projecte. A continuació es mostra tots els fitxers del repositori. Tant els fitxers de la base de dades, com els fitxers de ```python``` per fer el pre-processament de les dades i  l'entrenament del model, com la memòria final del treball:
+El repositori en el que ens trobem conté totes les eines necessàries per fer l'execució completa del projecte. A continuació es mostra tots els fitxers del repositori. La Base de Dades, com els fitxers de ```python``` per fer el pre-processament de les dades i  l'entrenament del model, com la memòria final del treball:
 ```
 |-- BaseDeDadesNFIRS.txt
 |-- ACSST5Y2023.S1901-Data_Cleaned.csv
